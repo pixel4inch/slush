@@ -1,0 +1,342 @@
+@import url(./colorvariable.css);
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+}
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+/* HEADER */
+header{
+    background-color: #fff;
+    height: 60px;
+    padding: 20px;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    margin-top: 0px;
+}
+.brandImg {
+    width: 100px;
+    height: auto;
+    margin-top: 5px;
+}
+
+.b20-logo {
+    width: 220px;
+    height: auto;
+    margin-top: 5px;
+}
+
+.navbar {
+    padding: 15px 10px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ddd;
+    margin: 40px 0;
+}
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    padding-top: 40px;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #191a1a;
+    color: #fff;
+    transition: all 0.3s;
+    position: fixed;
+    margin-right: 250px;
+    height: calc(100vh - 40px);
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: #6d7fcc;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid #47748b;
+}
+
+#sidebar ul p {
+    color: #fff;
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+#sidebar ul li a:hover {
+    color: #02244e;
+    background: #fff;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: #02244e;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #04489b;
+}
+
+ul.CTAs {
+    padding: 20px;
+}
+
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+a.download {
+    background: #fff;
+    color: #7386D5;
+}
+
+a.article,
+a.article:hover {
+    background: #6d7fcc !important;
+    color: #fff !important;
+}
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+#content {
+    width: 100%;
+    padding: 20px;
+    min-height: calc(100vh - 20px);
+    transition: all 0.3s;
+    margin-left: 250px;
+    background: #191a1a;
+}
+
+
+
+
+
+.events-card {
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 1px;
+    border: #000 solid 1px;
+}
+.events-card:hover {
+    background: #eef3ff
+}
+
+.events-card{
+    background: #2f3037f2 !important;
+    box-shadow: rgb(57, 58, 65) 0px 0px 4px 1px inset;
+}
+
+
+
+
+/* cardstle */
+
+
+
+.events-card .title{
+    font-size: 16px;
+    margin: 14px 0px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+.events-card .organizer{
+    font-size: 14px;
+    height: 40px;
+    line-height: 19px !important;
+    display: block !important;
+    color: rgb(255, 255, 255);
+}
+    
+
+.events-card .location
+{
+    line-height:21px !important;
+    height: 70px;
+    display: block;
+}
+
+.events-card .timeDate,
+.events-card .location{
+    font-size: 14px;
+   color: #c36900;
+   line-height: normal;
+   
+}
+
+.events-card .topics{
+    border-radius:50px;
+    
+}
+
+.events-card .topics .gradient-border{
+    
+        border-radius: 50px;
+        margin: 1px;
+        width: 100%;
+        height: calc(33px);
+        display: flex;
+        align-items: center;
+        position: relative;
+        z-index: 2;
+        justify-content: center;
+        background-color: rgb(28, 29, 33);
+       
+  
+}
+
+.events-card .topics .gradient-border .text-area span{
+    font-size: 12px;
+}
+
+.button-block{
+  
+        border-radius: 5px;
+        border: none;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        gap: 6px;
+        box-shadow: none;
+        cursor: pointer;
+        white-space: nowrap;
+        flex-shrink: 0;
+        overflow: visible;
+        text-decoration: none;
+        transition: all 100ms ease-in-out 0s;
+        padding: 6px 18px;
+        font-family: Knockout-31, sans-serif;
+        font-size: 14px;
+        height: 35px;
+        width: 100%;
+        background: linear-gradient(135deg, rgb(205, 228, 254) 0%, rgb(3, 119, 252) 100%);
+        color: #000;
+        font-weight: bold;
+    
+}
+
+.events-card .topics .gradient-border{
+    border-radius: 50px;
+    background: linear-gradient(135deg, rgb(205, 228, 254) 0%, rgb(3, 119, 252) 100%);
+    width: fit-content;
+    max-width: none;
+    display: flex;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Knockout-31, sans-serif;
+    user-select: none;
+}
+.events-card .topics .gradient-border .text-area
+{
+    border-radius: 50px;
+    margin: 1px;
+    width: 100%;
+    height: calc(33px);
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+    justify-content: center;
+    background-color: #04489b;
+    padding: 2px 8px;
+}
+
+.event-card .topics .gradient-border span{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin: 0px 10px;
+    color: rgb(255, 255, 255) !important;
+}
+
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ai.BUZZ</title>
+    <!--CSSLINKS-->
+    <link rel="stylesheet" href="./css/bootstrap.css"/>
+    <link rel="stylesheet" href="./css/animate/animate.css"/>
+    <link rel="stylesheet" href="./css/custome.css"/>
+
+</head>
+<body>
+
+  <header class="shadow p-2 bg-dark">
+
+    <div class="container">
+      <div class="d-flex justify-content-start align-items-center"
+      
+      <a class="navbar-brand" href="Default.htm">
+        <img src="https://platform.slush.org/assets/slush_logo_d_white-e8824adf.png" "="" alt="Evolv" class="brandImg">
+      </a>
+      </div>
+      
+
+    
+        
+
+
+       
+   </div>
+
+  </header>
+
+  <div class="wrapper">
+    <nav id="sidebar">
+      <ul class="list-unstyled components">
+         
+          <li >
+              <a href="SlushOfficialSideEvents.html" >Official Side Events</a>
+              
+          </li>
+          <li class="active">
+              <a href="slushorgnizedsideevents.html">Organized Side Events</a>
+          </li>
+          <li>
+              <a href="partnersideevents.html" >Partner Side Events</a>
+             
+          </li>
+          <li>
+              <a href="otherSlideEvent.html">Other Side Events</a>
+          </li>
+          
+      </ul>
+
+      
+  </nav>
+  <div id="content">
+    <div class="row" id="SlushEventCardData">
+
+
+      <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+      <script>
+        $(document).ready(function () {
+            $.getJSON("./data/SlushOrganizedSideEvents.json", function (data) {
+                var output = '';
+                $.each(data, function (key, value) {
+
+                              if(value.SECTION2 !==""){
+
+                                output += `
+                                <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2">
+                                <div class="card events-card p-2">
+                                <div class="title-block">
+                                <h4 class="title">` + value.TITLE + `</h4>
+                                <span class="organizer">` + value.ORGANIZER + `</span>
+                                </div>  
+
+                                <div class="w100 my-2 location">
+                                  <span  class="timeDate">` + value.DATETIME + `</span>
+                                  <span  class="location">` + value.ADDRESS + `</span>
+                                </div>
+
+                                
+                                  <div  class="w-100  d-flex justify-content-start ">
+                                    <div class="mx-2 topics">
+                                      <div class="gradient-border">
+                                        <div class="text-area">
+                                        <span class="text-white">` + value.SECTION + `</span>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    <div class="mx-2 topics" >
+                                            <div class="gradient-border">
+                                            <div class="text-area">
+                                            <span class="text-white">` + value.SECTION2  + `</span>
+                                            </div>
+                                            </div>
+                                        </div>
+                                     </div>
+
+                                  <div class="button-block my-3">
+                                    <a class="" target="_blank" type="button" href="` + value.LINK + `">View Event</a>
+                                  </div>
+                                </div>
+                        
+                      </div> `;
+
+                              } else{
+
+                                output += `
+                                <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2">
+                                <div class="card events-card p-2">
+                                <div class="title-block">
+                                <h4 class="title">` + value.TITLE + `</h4>
+                                <span class="organizer">` + value.ORGANIZER + `</span>
+                                </div>  
+                                <div class="w100 my-2 location">
+                                  <span  class="timeDate">` + value.DATETIME + `</span>
+                                  <span  class="location">` + value.ADDRESS + `</span>
+                                </div>
+                               <div  class="w-100  d-flex justify-content-start ">
+                                    <div class="mx-2 topics">
+                                      <div class="gradient-border">
+                                        <div class="text-area">
+                                        <span class="text-white">` + value.SECTION + `</span>
+                                        </div>
+                                    </div>
+                                    </div>
+                                  </div>
+                                  <div class="button-block my-3">
+                                    <a class="" target="_blank" href="` + value.LINK + `">View Event</a>
+                                  </div>
+                                </div>
+                         </div> `;
+
+
+                              }
+
+                                
+                       
+           
+                });
+                $('#SlushEventCardData').html(output);
+              
+            }).fail(function () {
+                document.write("An error has occurred.");
+            });
+        });
+    </script>
+
+
+
+
+        
+
+      </div>
+    
+    
+
+  </div>
+
+       
+</div>
+</div>
+
+
+</body>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="./js/bootstrap.bundle.js"></script>
+    <script src="./js/plugins/WOW/wow.js"></script>
+
+    <script>
+        new WOW().init();
+        
+    </script>
+
+    <script>
+      $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+    </script>
+
+
+
+</html>

@@ -1,0 +1,517 @@
+[
+ {
+  "SNO": 1,
+  "TITLE": "Day 0 Morning Run with Slush Team",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 7:30 AM – 8:30 AM",
+  "ADDRESS": "Malminkatu 16A 00100 Helsinki",
+  "SECTION": "Sports",
+  "SECTION2": "Health & Wellbeing",
+  "LINK": "https://platform.slush.org/slush23/side-events/6f4eb8d7-e84a-4db1-bdbb-5c203aec43d8"
+ },
+ {
+  "SNO": 2,
+  "TITLE": "Investor Day",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 1:00 PM – 5:00 PM",
+  "ADDRESS": "Messukeskus Hall 4, Helsinki Expo and Convention Centre",
+  "SECTION": "Networking",
+    "SECTION2": "",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/dd7d16b5-67e5-4d33-a68e-8fb1f36941fa"
+ },
+ {
+  "SNO": 3,
+  "TITLE": "Media Day",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 3:00 PM – 6:00 PM",
+  "ADDRESS": "Korjaamo, Helsinki",
+  "SECTION": "Stage Session",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/d73cdc6b-7432-4b0b-b925-90484fa215d0"
+ },
+ {
+  "SNO": 4,
+  "TITLE": "Elevator Pitching Practice",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 4:00 PM – 6:00 PM",
+  "ADDRESS": "KONE Building, Keilasatama 3, 02150 Espoo",
+  "SECTION": "Pitching",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/5fa7c2f8-db3e-4537-ab1a-eaf30b3e00c1"
+ },
+ {
+  "SNO": 5,
+  "TITLE": "Founders Day",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 6:00 PM – 11:00 PM",
+  "ADDRESS": "Messukeskus Hall 4, Helsinki Expo and Convention Centre",
+  "SECTION": "Networking",
+    "SECTION2": "",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/70a7f2d7-a1b2-40b8-bfa9-abdd247218dd"
+ },
+ {
+  "SNO": 6,
+  "TITLE": "Founder Roundtables",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 8:00 PM – 8:30 PM",
+  "ADDRESS": "Founders Day",
+  "SECTION": "Roundtable",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/4ddbe6c0-d1c3-44ef-8030-2bf3427c5c60"
+ },
+ {
+  "SNO": 7,
+  "TITLE": "#01 Validating a Problem - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 11:15 AM – 12:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/e8a6b97f-ef01-4672-9897-b34ace89ac02"
+ },
+ {
+  "SNO": 8,
+  "TITLE": "#03 Building an MVP - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 12:15 PM – 1:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/37d323cf-f4db-4aad-ab4b-836c392cf9fb"
+ },
+ {
+  "SNO": 9,
+  "TITLE": "#04 Moving From Lab to Market - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 12:45 PM – 1:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/af601cdb-0677-4569-8e0b-ddf07247d0d4"
+ },
+ {
+  "SNO": 10,
+  "TITLE": "Press Q&A: Proximie",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 12:55 PM – 1:25 PM",
+  "ADDRESS": "Media Area",
+  "SECTION": "Press Conference",
+  "SECTION2": "Medtech & Pharma",
+  "LINK": "https://platform.slush.org/slush23/side-events/99f1e739-f2ec-43bb-8391-78aac23f7ad0"
+ },
+ {
+  "SNO": 11,
+  "TITLE": "#06 Raising a Seed Round - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 1:45 PM – 2:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/541fa7f2-424a-439f-ade9-4572e268d006"
+ },
+ {
+  "SNO": 12,
+  "TITLE": "Press Q&A: State of European Tech Report",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 2:40 PM – 3:05 PM",
+  "ADDRESS": "Media Area",
+  "SECTION": "Press Conference",
+  "SECTION2": "Analytics",
+  "LINK": "https://platform.slush.org/slush23/side-events/3ea1431d-d90d-42f6-b6ad-d5b74555f637"
+ },
+ {
+  "SNO": 13,
+  "TITLE": "#08 Building a Diverse Team - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 2:45 PM – 3:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/8ef54f85-877a-4ba1-a786-9d44641e28aa"
+ },
+ {
+  "SNO": 14,
+  "TITLE": "#09 Structuring Founder Compensation and ESOP - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 3:15 PM – 4:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/2c8d977f-a36c-43f7-8a0d-8e83c30fecf2"
+ },
+ {
+  "SNO": 15,
+  "TITLE": "#10 Creating a Brand - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 3:45 PM – 4:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/8c59f413-7b3d-4f72-966e-bc9c85dfffd6"
+ },
+ {
+  "SNO": 16,
+  "TITLE": "#11 Maximizing Investor Relations - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 4:15 PM – 4:35 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/5fd08f03-e1ef-482c-bf9b-92461bb977fd"
+ },
+ {
+  "SNO": 17,
+  "TITLE": "IOH — Speedinvest",
+  "ORGANIZER": "Organized by Speedinvest",
+  "DATETIME": "Nov 30, 4:30 PM – 5:30 PM",
+  "ADDRESS": "Investor Office Hour",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/114e9e3d-2f08-457e-9e03-1fa896c88417"
+ },
+ {
+  "SNO": 18,
+  "TITLE": "Press Q&A: Doublepoint (Product Announcement)",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 4:40 PM – 5:05 PM",
+  "ADDRESS": "Media Area",
+  "SECTION": "Press Conference",
+  "SECTION2": "Media",
+  "LINK": "https://platform.slush.org/slush23/side-events/21ddaf8a-80b4-43fa-8a16-c04f348ac7b8"
+ },
+ {
+  "SNO": 19,
+  "TITLE": "#12 Finding PMF - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 4:45 PM – 5:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/7746f970-1e31-4c05-b176-559448499887"
+ },
+ {
+  "SNO": 20,
+  "TITLE": "#13 Winning by Design - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 5:15 PM – 6:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/3609105c-9934-484a-b194-74f336a3e2ff"
+ },
+ {
+  "SNO": 21,
+  "TITLE": "#16 Fundraising for Deep Tech - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 10:45 AM – 11:30 AM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/9ce8f673-e5a0-42bb-8723-f8407f811652"
+ },
+ {
+  "SNO": 22,
+  "TITLE": "#17 Running Engineering Teams - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 11:15 AM – 12:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/f2452321-580a-4558-832f-c55a17b70b46"
+ },
+ {
+  "SNO": 23,
+  "TITLE": "Press Q&A: SiloGen, from Silo AI",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 11:30 AM – 12:00 PM",
+  "ADDRESS": "Media Area",
+  "SECTION": "Press Conference",
+  "SECTION2": "Media",
+  "LINK": "https://platform.slush.org/slush23/side-events/b06ff9e0-aba1-49c2-a90e-de31150ce35f"
+ },
+ {
+  "SNO": 24,
+  "TITLE": "#18 Scaling Company Culture - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 11:45 AM – 12:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/6ac6256c-9d90-48f3-8b55-f9c1fdf633cb"
+ },
+ {
+  "SNO": 25,
+  "TITLE": "#19 Managing Distributed Teams - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 12:15 PM – 1:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/c62dcca9-e47b-4a8d-8b5a-d720ef6efe8a"
+ },
+ {
+  "SNO": 26,
+  "TITLE": "Founder Re(DEI)Fined",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 12:50 PM – 2:00 PM",
+  "ADDRESS": "Siipi - Säde Room",
+  "SECTION": "Networking",
+    "SECTION2": "",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/4c74fe86-cb59-466a-8c0f-69326380611f"
+ },
+ {
+  "SNO": 27,
+  "TITLE": "#22 Revolutionizing Customer Experience For Growth - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 1:45 PM – 2:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/b97670cb-4f88-46d3-ae32-1105f4b62848"
+ },
+ {
+  "SNO": 28,
+  "TITLE": "Press Q&A: Deel",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 2:15 PM – 2:45 PM",
+  "ADDRESS": "Media Area",
+  "SECTION": "Press Conference",
+  "SECTION2": "Enterprise Software",
+  "LINK": "https://platform.slush.org/slush23/side-events/1e8a4602-1d97-49c7-8e18-fdfc05cbf8f4"
+ },
+ {
+  "SNO": 29,
+  "TITLE": "#23 Reigniting Growth with Product - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 2:15 PM – 3:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/2551928f-81ae-4cb9-a0e0-fc7497fc4bd0"
+ },
+ {
+  "SNO": 30,
+  "TITLE": "#24 Scaling Durable Product Advantages - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 2:45 PM – 3:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/6bb151a1-3ffc-4565-b572-a66cbd9831f7"
+ },
+ {
+  "SNO": 31,
+  "TITLE": "Press Q&A: Hanna Toivonen (Company Launch)",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 3:15 PM – 3:45 PM",
+  "ADDRESS": "Media Area",
+  "SECTION": "Press Conference",
+  "SECTION2": "Media",
+  "LINK": "https://platform.slush.org/slush23/side-events/6fcec9d1-2388-4fbf-84b9-4f39508c767b"
+ },
+ {
+  "SNO": 32,
+  "TITLE": "#27 Leading a Global Expansion - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 4:15 PM – 5:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/1d1ddf9f-bf00-4826-ac4d-3cbfe7f3bd67"
+ },
+ {
+  "SNO": 33,
+  "TITLE": "Founder Experiences",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 9:00 AM – 1:00 PM",
+  "ADDRESS": "Helsinki",
+  "SECTION": "Networking",
+    "SECTION2": "",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/5a66f50b-8ca2-478e-af28-f9156595a4ae"
+ },
+ {
+  "SNO": 34,
+  "TITLE": "Investor Experiences",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 9:30 AM – 1:00 PM",
+  "ADDRESS": "Helsinki",
+  "SECTION": "Networking",
+    "SECTION2": "",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/ec8c7696-9c89-40c8-8d94-90d33e4f07f8"
+ },
+ {
+  "SNO": 35,
+  "TITLE": "The Slush Street Afterworks",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 6:00 PM – Nov 30, 10:00 PM",
+  "ADDRESS": "Mummotunneli, Aleksanterinkatu 46, 00101 Helsinki",
+  "SECTION": "Afterwork",
+  "LINK": "https://platform.slush.org/slush23/side-events/881d94fc-b978-463f-b953-167c2d289ee2"
+ },
+ {
+  "SNO": 36,
+  "TITLE": "Founder Mentoring",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 29, 7:00 PM – 7:30 PM",
+  "ADDRESS": "Founders Day",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/0c46ed72-4fab-4baf-b772-78970f6dbfec"
+ },
+ {
+  "SNO": 37,
+  "TITLE": "Female Founder Office Hour – Playfair Capital",
+  "ORGANIZER": "Organized by Playfair Capital",
+  "DATETIME": "Nov 30, 10:30 AM – 11:50 AM",
+  "ADDRESS": "IOH - Venue",
+  "SECTION": "Networking",
+    "SECTION2": "",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/e38d410f-1d1e-4a97-bb23-afb4d0ae181c"
+ },
+ {
+  "SNO": 38,
+  "TITLE": "#02 Managing Co-Founder Relations - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 11:45 AM – 12:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/a753372f-f65a-4146-99c0-e4d73743ed02"
+ },
+ {
+  "SNO": 39,
+  "TITLE": "#05 Acquiring the First Customers - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 1:15 PM – 2:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/cf55f03d-6da6-405c-8632-326ac5b41490"
+ },
+ {
+  "SNO": 40,
+  "TITLE": "#07 Making Early Hires - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 2:15 PM – 3:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/f7a3d328-db51-4e4f-aac7-393885aebbe5"
+ },
+ {
+  "SNO": 41,
+  "TITLE": "IOH – Index Ventures",
+  "ORGANIZER": "Organized by Index Ventures",
+  "DATETIME": "Nov 30, 3:05 PM – 4:05 PM",
+  "ADDRESS": "Investor Office hours",
+  "SECTION": "Networking",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/e2968fb9-ed9f-45a4-a7e8-040866565912"
+ },
+ {
+  "SNO": 42,
+  "TITLE": "#11 Maximizing Investor Relations - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Nov 30, 4:15 PM – 4:35 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/d1252d9a-88d8-4eb1-8043-212f0f4e20ce"
+ },
+ {
+  "SNO": 43,
+  "TITLE": "IOH — Inventure X 3VC X Practica Capital",
+  "ORGANIZER": "Organized by Inventure - 3VC - Practica Capital",
+  "DATETIME": "Dec 1, 12:00 PM – 1:00 PM",
+  "ADDRESS": "Investor Office Hour",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/c82ad51d-8648-49ce-8e7d-56e8bc16b231"
+ },
+ {
+  "SNO": 44,
+  "TITLE": "#20 Fostering Employee Performance & Engagement - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 12:45 PM – 1:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/da645046-1482-4c52-a3f7-cd2b1ffe169e"
+ },
+ {
+  "SNO": 45,
+  "TITLE": "#21 Growing the Customer Base - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 1:15 PM – 2:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/4e1e344e-85cc-4e2d-8f05-f0f98b18c7a8"
+ },
+ {
+  "SNO": 46,
+  "TITLE": "IOH — Antler",
+  "ORGANIZER": "Organized by Antler",
+  "DATETIME": "Dec 1, 1:30 PM – 2:30 PM",
+  "ADDRESS": "Investor Office Hour",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/473a4f14-78cd-4fe0-991d-a7c216ab33bc"
+ },
+ {
+  "SNO": 47,
+  "TITLE": "Press Q&A: OpenBCI (Product Announcement)",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 1:35 PM – 2:05 PM",
+  "ADDRESS": "Media Area",
+  "SECTION": "Press Conference",
+  "SECTION2": "Media",
+  "LINK": "https://platform.slush.org/slush23/side-events/71169ffc-d256-4933-8df0-60f20730ebbd"
+ },
+ {
+  "SNO": 48,
+  "TITLE": "Female Founders Forum",
+  "ORGANIZER": "Organized by Spintop ventures",
+  "DATETIME": "Dec 1, 3:00 PM – 4:00 PM",
+  "ADDRESS": "Investor Office Hour",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/dd94654a-51b0-41ca-bcce-a484175af5b8"
+ },
+ {
+  "SNO": 49,
+  "TITLE": "#25 Tracking the Key Startup Metrics - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 3:15 PM – 4:00 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/9ce6b654-6981-4337-a575-ea132cf90be5"
+ },
+ {
+  "SNO": 50,
+  "TITLE": "#26 Hiring Company Leaders - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 3:45 PM – 4:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/56323bef-565a-46f1-80f8-e9719662969c"
+ },
+ {
+  "SNO": 51,
+  "TITLE": "#28 Extending Your Runway - Speaker Q&A",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 4:45 PM – 5:30 PM",
+  "ADDRESS": "Mentoring Area, Slush venue",
+  "SECTION": "Mentoring",
+    "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/c35ab826-b966-4078-9875-1b1f84b9394a"
+ }
+]

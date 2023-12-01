@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&family=Quattrocento:wght@400;700&display=swap');
+
+
+:root {
+   
+--aibuzz-primary: #0d6efd;
+--aibuzz-secondary: #6c757d;
+  --aibuzz-blue: #0d6efd;
+  --aibuzz-indigo: #6610f2;
+  --aibuzz-purple: #6f42c1;
+  --aibuzz-pink: #d63384;
+  --aibuzz-red: #dc3545;
+  --aibuzz-orange: #fd7e14;
+  --aibuzz-yellow: #ffc107;
+  --aibuzz-green: #198754;
+  --aibuzz-teal: #20c997;
+  --aibuzz-cyan: #0dcaf0;
+  --aibuzz-black: #000;
+  --aibuzz-white: #fff;
+  --aibuzz-gray: #6c757d;
+  --aibuzz-gray-dark: #343a40;
+  --aibuzz-gray-100: #f8f9fa;
+  --aibuzz-gray-200: #e9ecef;
+  --aibuzz-gray-300: #dee2e6;
+  --aibuzz-gray-400: #ced4da;
+  --aibuzz-gray-500: #adb5bd;
+  --aibuzz-gray-600: #6c757d;
+  --aibuzz-gray-700: #495057;
+  --aibuzz-gray-800: #343a40;
+  --aibuzz-gray-900: #212529;
+  --aibuzz-success: #198754;
+  --aibuzz-info: #0dcaf0;
+  --aibuzz-warning: #ffc107;
+  --aibuzz-danger: #dc3545;
+  --aibuzz-light: #f8f9fa;
+  --aibuzz-dark: #212529;
+  --aibuzz-primary-rgb: 13, 110, 253;
+  --aibuzz-secondary-rgb: 108, 117, 125;
+  --aibuzz-success-rgb: 25, 135, 84;
+  --aibuzz-info-rgb: 13, 202, 240;
+  --aibuzz-warning-rgb: 255, 193, 7;
+  --aibuzz-danger-rgb: 220, 53, 69;
+  --aibuzz-light-rgb: 248, 249, 250;
+  --aibuzz-dark-rgb: 33, 37, 41;
+  --aibuzz-white-rgb: 255, 255, 255;
+  --aibuzz-black-rgb: 0, 0, 0;
+  --aibuzz-body-color-rgb: 33, 37, 41;
+  --aibuzz-body-bg-rgb: 255, 255, 255;
+  --aibuzz-font-heading: 'Oswald', sans-serif;
+  --aibuzz-font-content: 'Quattrocento', serif;
+  --aibuzz-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  --aibuzz-body-font-family: var(--aibuzz-font-sans-serif);
+  --aibuzz-body-font-size: 1rem;
+  --aibuzz-body-font-weight: 400;
+  --aibuzz-body-line-height: 1.5;
+  --aibuzz-body-color: #212529;
+  --aibuzz-body-bg: #fff;
+  --aibuzz-border-width: 1px;
+  --aibuzz-border-style: solid;
+  --aibuzz-border-color: #dee2e6;
+  --aibuzz-border-color-translucent: rgba(0, 0, 0, 0.175);
+  --aibuzz-border-radius: 0.375rem;
+  --aibuzz-border-radius-sm: 0.25rem;
+  --aibuzz-border-radius-lg: 0.5rem;
+  --aibuzz-border-radius-xl: 1rem;
+  --aibuzz-border-radius-2xl: 2rem;
+  --aibuzz-border-radius-pill: 50rem;
+  --aibuzz-link-color: #0d6efd;
+  --aibuzz-link-hover-color: #0a58ca;
+  --aibuzz-code-color: #d63384;
+  --aibuzz-highlight-bg: #fff3cd;
+}
+
+
+/* SNIPTS */

@@ -1,0 +1,784 @@
+[
+ {
+  "SNO": 1,
+  "TITLE": "Knights of Nordics",
+  "ORGANIZER": "Organized by Enter Espoo Oy",
+  "DATETIME": "Nov 28, 2:30 PM – Nov 30, 1:59 AM",
+  "ADDRESS": "Espoo",
+  "SECTION": "Pitching",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/31747eb5-1814-474c-9c05-c5ab8363d53b"
+ },
+ {
+  "SNO": 2,
+  "TITLE": "Nokia Ventures & GP/LP Breakfast",
+  "ORGANIZER": "Organized by Nokia",
+  "DATETIME": "Nov 29, 8:30 AM – 12:00 PM",
+  "ADDRESS": "Executive Experience Center - Nokia HQ",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/7cdcaf65-c3b4-4868-b2c5-c35d8852acf0"
+ },
+ {
+  "SNO": 3,
+  "TITLE": "Media Track 2: Exploring DEI Progress - Showcasing Companies Leading the Way",
+  "ORGANIZER": "Organized by Helsinki Partners",
+  "DATETIME": "Nov 29, 9:00 AM – 8:00 PM",
+  "ADDRESS": "Helsinki",
+  "SECTION": "Other",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/7ccfbf13-0e51-4ec9-a6da-bb9813e7a8dd"
+ },
+ {
+  "SNO": 4,
+  "TITLE": "Data & Whiskey with Fivetran + Snowflake + ThoughtSpot",
+  "ORGANIZER": "Organized by Fivetran",
+  "DATETIME": "Nov 29, 4:45 PM – 7:00 PM",
+  "ADDRESS": "Helsinki Whiskey Cellar",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "SECTION2": "Analytics",
+  "LINK": "https://platform.slush.org/slush23/side-events/d114821d-b30e-4043-a9c9-469b25bec73d"
+ },
+ {
+  "SNO": 5,
+  "TITLE": "Fostering connections: Women founders & VC breakfast by Google for Startups",
+  "ORGANIZER": "Organized by Google for Startups",
+  "DATETIME": "Nov 30, 7:30 AM – 9:30 AM",
+  "ADDRESS": "Säde, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/a13a1ef6-9c5e-42db-9ad0-cf25aa581905"
+ },
+ {
+  "SNO": 6,
+  "TITLE": "Sata ajatusta tekoälystä",
+  "ORGANIZER": "Organized by HS Visio",
+  "DATETIME": "Nov 30, 8:00 AM – 10:00 AM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Roundtable",
+  "SECTION2": "Social Impact",
+  "LINK": "https://platform.slush.org/slush23/side-events/82909105-cb61-48af-844e-a589892773e1"
+ },
+ {
+  "SNO": 7,
+  "TITLE": "Construction tech on the forefront of the climate challenge",
+  "ORGANIZER": "Organized by Leonard",
+  "DATETIME": "Nov 30, 8:00 AM – 10:00 AM",
+  "ADDRESS": "Room 101C, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "SECTION2": "Property & Construction Tech",
+  "LINK": "https://platform.slush.org/slush23/side-events/9a1be93d-b26f-40a8-87a7-608e27cf9e0e"
+ },
+ {
+  "SNO": 8,
+  "TITLE": "Startup Exits to Acquisition Realities",
+  "ORGANIZER": "Organized by Flippa",
+  "DATETIME": "Nov 30, 11:00 AM – 12:00 PM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Stage Session",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/e752b41d-1d8d-439f-b3cb-e19864a89b60"
+ },
+ {
+  "SNO": 9,
+  "TITLE": "Apply to the Google Cloud Startup Program",
+  "ORGANIZER": "Organized by Google",
+  "DATETIME": "Nov 30, 11:00 AM – Dec 1, 5:00 PM",
+  "ADDRESS": "Google Booth main event",
+  "SECTION": "Mentoring",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/a2473014-20b7-4fe2-aa02-0cd9f8c1d743"
+ },
+ {
+  "SNO": 10,
+  "TITLE": "Pitching hour — Invest in science startups!",
+  "ORGANIZER": "Organized by VTT LaunchPad",
+  "DATETIME": "Nov 30, 11:00 AM – 12:00 PM",
+  "ADDRESS": "VTT Partner Booth",
+  "SECTION": "Pitching",
+      "SECTION2": "",
+  "SECTION2": "Cleantech",
+  "LINK": "https://platform.slush.org/slush23/side-events/4239b475-3bdc-4e4b-b473-bce84e7457e5"
+ },
+ {
+  "SNO": 11,
+  "TITLE": "Latvia presents: up&coming startups to invest",
+  "ORGANIZER": "Organized by TechChill & Latvian Investment and Development Agency",
+  "DATETIME": "Nov 30, 11:00 AM – 2:00 PM",
+  "ADDRESS": "Helsinki Business College (Next to the main Slush venue)",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "SECTION2": "Analytics",
+  "LINK": "https://platform.slush.org/slush23/side-events/411445c3-7249-48c0-8d5e-718456c68e34"
+ },
+ {
+  "SNO": 12,
+  "TITLE": "Love the Problem - Scale the Outcome, Building National Innovation Pathways",
+  "ORGANIZER": "Organized by AstraZeneca",
+  "DATETIME": "Nov 30, 12:00 PM – 12:30 PM",
+  "ADDRESS": "AstraZeneca A.Catalyst Network Booth",
+  "SECTION": "Stage Session",
+      "SECTION2": "",
+  "SECTION2": "Health & Wellbeing",
+  "LINK": "https://platform.slush.org/slush23/side-events/fea1b126-ca7f-40f3-8c1a-d6c71d90d92a"
+ },
+ {
+  "SNO": 13,
+  "TITLE": "VTT Technology showcase",
+  "ORGANIZER": "Organized by VTT Technical Research Centre of Finland",
+  "DATETIME": "Nov 30, 1:00 PM – 2:00 PM",
+  "ADDRESS": "VTT Partner Booth",
+  "SECTION": "Pitching",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/f0ccac50-d189-4e81-bf43-542b1b5d1817"
+ },
+ {
+  "SNO": 14,
+  "TITLE": "Find AI Talent to Launch Your Projects: Top Talent Reception",
+  "ORGANIZER": "Organized by Toptal",
+  "DATETIME": "Nov 30, 1:00 PM – 3:00 PM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Product",
+  "SECTION2": "Enterprise Software",
+  "LINK": "https://platform.slush.org/slush23/side-events/7d9be680-cd4d-4f1f-ab80-f6128c329cf5"
+ },
+ {
+  "SNO": 15,
+  "TITLE": "European Innovation Council - Building deep tech unicorns",
+  "ORGANIZER": "Organized by European Innovation Council / European Investment Bank",
+  "DATETIME": "Nov 30, 1:30 PM – 2:15 PM",
+  "ADDRESS": "EIC/EIB stand (close to Founder stage)",
+  "SECTION": "Workshop",
+  "SECTION2": "Information Networks",
+  "LINK": "https://platform.slush.org/slush23/side-events/c4f50544-4c6c-4e1b-b729-6341ef2f0f5e"
+ },
+ {
+  "SNO": 16,
+  "TITLE": "Japan Visiting: Fukuoka x Helsinki",
+  "ORGANIZER": "Organized by Helsinki Partners",
+  "DATETIME": "Nov 30, 1:30 PM – 3:30 PM",
+  "ADDRESS": "Helsinki Lounge, Messukeskus",
+  "SECTION": "Stage Session",
+      "SECTION2": "",
+  "SECTION2": "Education",
+  "LINK": "https://platform.slush.org/slush23/side-events/82ed3272-cabf-478f-b4c9-fe251307ea51"
+ },
+ {
+  "SNO": 17,
+  "TITLE": "REACH Incubator Ultimate Pitch Battle",
+  "ORGANIZER": "Organized by REACH Incubator",
+  "DATETIME": "Nov 30, 3:00 PM – 4:30 PM",
+  "ADDRESS": "101D, Messukeskus Siipi Conference Centre",
+  "SECTION": "Pitching",
+      "SECTION2": "",
+  "SECTION2": "Analytics",
+  "LINK": "https://platform.slush.org/slush23/side-events/5a7e4c8a-010d-472a-a929-bafdf97398ae"
+ },
+ {
+  "SNO": 18,
+  "TITLE": "Be greedy when others are fearful: How (C)VCs are doubling down despite the current crisis",
+  "ORGANIZER": "Organized by PwC",
+  "DATETIME": "Nov 30, 3:00 PM – 4:00 PM",
+  "ADDRESS": "101C, Messukeskus Siipi Conference Centre",
+  "SECTION": "Stage Session",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/c18cd50a-c6b4-457a-baab-e6803a94569a"
+ },
+ {
+  "SNO": 19,
+  "TITLE": "Building a healthy future – for people, society and the planet",
+  "ORGANIZER": "Organized by AstraZeneca",
+  "DATETIME": "Nov 30, 3:00 PM – 3:30 PM",
+  "ADDRESS": "AstraZeneca A.Catalyst Network Booth",
+  "SECTION": "Networking",
+ 
+  "SECTION2": "Health & Wellbeing",
+  "LINK": "https://platform.slush.org/slush23/side-events/f83a999b-d0ea-49b8-ac72-f7193b53e686"
+ },
+ {
+  "SNO": 20,
+  "TITLE": "Snowflake's Journey to the Top: Scaling from Startup to IPO and Beyond – Valuable Lessons Revealed",
+  "ORGANIZER": "Organized by Snowflake Ventures",
+  "DATETIME": "Nov 30, 4:00 PM – 5:00 PM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Stage Session",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/85ec0d5d-b111-4a64-8248-1ce03d246929"
+ },
+ {
+  "SNO": 21,
+  "TITLE": "New Space Meets Deep Tech",
+  "ORGANIZER": "Organized by EUSPA - European Agency of the Space Programme",
+  "DATETIME": "Nov 30, 4:30 PM – 5:30 PM",
+  "ADDRESS": "103B, Messukeskus Siipi Conference Centre",
+  "SECTION": "Workshop",
+  "SECTION2": "Spacetech",
+  "LINK": "https://platform.slush.org/slush23/side-events/a942edca-5172-41ec-a477-8dd3f0a6a5f8"
+ },
+ {
+  "SNO": 22,
+  "TITLE": "Pitching the Future of Clean Mobility",
+  "ORGANIZER": "Organized by European Startup Prize for Mobility",
+  "DATETIME": "Nov 30, 6:00 PM – 8:00 PM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Pitching",
+
+  "SECTION2": "Mobility",
+  "LINK": "https://platform.slush.org/slush23/side-events/f2dd9e2c-d8b6-4239-8feb-538c0c425045"
+ },
+ {
+  "SNO": 23,
+  "TITLE": "CTO Dinner with Google Cloud",
+  "ORGANIZER": "Organized by Google Cloud",
+  "DATETIME": "Nov 30, 6:00 PM – 9:00 PM",
+  "ADDRESS": "Allas Restaurants, Katajanokanlaituri 2 A, 00160 Helsinki, Finland",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/a4dc1188-0f40-4039-a6a2-364e4fc90017"
+ },
+ {
+  "SNO": 24,
+  "TITLE": "XcitED",
+  "ORGANIZER": "Organized by xEdu",
+  "DATETIME": "Dec 1, 9:00 AM – 12:00 PM",
+  "ADDRESS": "103A, Messukeskus Siipi Conference Centre",
+  "SECTION": "Pitching",
+
+  "SECTION2": "Education",
+  "LINK": "https://platform.slush.org/slush23/side-events/ea76b7e6-840b-4fac-a6d9-3b66f9a61903"
+ },
+ {
+  "SNO": 25,
+  "TITLE": "Attracting International Talent with Helsinki’s Brand",
+  "ORGANIZER": "Organized by Helsinki Partners",
+  "DATETIME": "Dec 1, 10:00 AM – 11:30 AM",
+  "ADDRESS": "Helsinki Lounge, Messukeskus",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/bb5aa606-00e6-452a-a370-3ede1fbb7617"
+ },
+ {
+  "SNO": 26,
+  "TITLE": "Discover the secret link between pharmaceuticals, elephants, space and fast cars",
+  "ORGANIZER": "Organized by AstraZeneca",
+  "DATETIME": "Dec 1, 11:30 AM – 12:00 PM",
+  "ADDRESS": "AstraZeneca A.Catalyst Network Booth",
+  "SECTION": "Stage Session",
+
+  "SECTION2": "Medtech & Pharma",
+  "LINK": "https://platform.slush.org/slush23/side-events/fa66b4f5-69a1-4fef-b223-89d554feea58"
+ },
+ {
+  "SNO": 27,
+  "TITLE": "Slackathon + AMA with Cal Henderson & Marianne Vikkula",
+  "ORGANIZER": "Organized by Slack",
+  "DATETIME": "Dec 1, 1:00 PM – 3:00 PM",
+  "ADDRESS": "101AB, Messukeskus Siipi Conference Centre",
+  "SECTION": "Pitching",
+
+  "SECTION2": "Enterprise Software",
+  "LINK": "https://platform.slush.org/slush23/side-events/8f5f5e40-02cb-4b39-bc39-b3bd3f7cec6d"
+ },
+ {
+  "SNO": 28,
+  "TITLE": "Scaling your company and funding your VC in a complex economic situation",
+  "ORGANIZER": "Organized by Startup Luxembourg",
+  "DATETIME": "Dec 1, 2:30 PM – 5:00 PM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "Enterprise Software",
+  "LINK": "https://platform.slush.org/slush23/side-events/6a0b1864-3f02-4bb9-9737-43406d3a4ebf"
+ },
+ {
+  "SNO": 29,
+  "TITLE": "Go Global with Development Banks and UN",
+  "ORGANIZER": "Organized by Business Finland",
+  "DATETIME": "Dec 1, 3:00 PM – 6:00 PM",
+  "ADDRESS": "103 A, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "Climate",
+  "LINK": "https://platform.slush.org/slush23/side-events/4d8f3d03-5095-4afd-9793-7c7fdb100c44"
+ },
+ {
+  "SNO": 30,
+  "TITLE": "Lead the Change: Choose Europe",
+  "ORGANIZER": "Organized by Helsinki Partners",
+  "DATETIME": "Dec 1, 3:00 PM – 5:00 PM",
+  "ADDRESS": "Helsinki Lounge, Messukeskus",
+  "SECTION": "Networking",
+ 
+  "SECTION2": "Information Networks",
+  "LINK": "https://platform.slush.org/slush23/side-events/9f76a6f3-ef29-42a7-a0bc-963eb3bbd8ff"
+ },
+ {
+  "SNO": 31,
+  "TITLE": "Turkish AI Startups - Powered by Yapı Kredi FRWRD Global",
+  "ORGANIZER": "Organized by YAPI KREDI BANK",
+  "DATETIME": "Dec 1, 3:30 PM – 5:00 PM",
+  "ADDRESS": "103B Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/7534e569-7e80-4d1f-afa7-322980d699c6"
+ },
+ {
+  "SNO": 32,
+  "TITLE": "#BreakingGrounds at Slush: The Tech Gala of Bulgaria, Cyprus, Hungary & Poland",
+  "ORGANIZER": "Organized by The Recursive",
+  "DATETIME": "Dec 1, 3:30 PM – 5:00 PM",
+  "ADDRESS": "101C, Messukeskus Siipi Conference Center",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/a841fb8c-ced3-42bd-93a5-eec3abd6ee08"
+ },
+ {
+  "SNO": 33,
+  "TITLE": "Corporate Innovation Day - Powered by Fortum",
+  "ORGANIZER": "Organized by Catapult, powered by Fortum",
+  "DATETIME": "Nov 29, 9:00 AM – 5:00 PM",
+  "ADDRESS": "Helsinki",
+  "SECTION": "Roundtable",
+  "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/0210b54f-02df-47c7-9bc1-7796f52ecc60"
+ },
+ {
+  "SNO": 34,
+  "TITLE": "Media Track 1: Research as an enabler for Tomorrow Food Production",
+  "ORGANIZER": "Organized by Helsinki Partners",
+  "DATETIME": "Nov 29, 9:30 AM – 8:00 PM",
+  "ADDRESS": "Helsinki",
+  "SECTION": "Other",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/b02c5173-8073-4dc9-a73e-49a99c997fba"
+ },
+ {
+  "SNO": 35,
+  "TITLE": "The House of Impact",
+  "ORGANIZER": "Organized by Helsinki Partners & The Impact Office (TIO)",
+  "DATETIME": "Nov 29, 11:30 AM – 7:30 PM",
+  "ADDRESS": "Puistokatu 4 00140 Helsinki Finland",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/4bcc7996-2e94-4263-9296-39d8455a22ff"
+ },
+ {
+  "SNO": 36,
+  "TITLE": "Grow with Braze Helsinki",
+  "ORGANIZER": "Organized by Braze",
+  "DATETIME": "Nov 29, 4:00 PM – 7:30 PM",
+  "ADDRESS": "Miltton House, Hakaniemi",
+  "SECTION": "Networking",
+   
+  "SECTION2": "E-commerce",
+  "LINK": "https://platform.slush.org/slush23/side-events/ce678fff-50d5-4fba-9202-714b97d14ba0"
+ },
+ {
+  "SNO": 37,
+  "TITLE": "Cocktails and Connections powered by Helsinki Partners",
+  "ORGANIZER": "Organized by Helsinki Partners",
+  "DATETIME": "Nov 29, 5:00 PM – 7:00 PM",
+  "ADDRESS": "Kasarmikatu 36, 4th floor",
+  "SECTION": "Networking",
+   
+  "SECTION2": "Climate",
+  "LINK": "https://platform.slush.org/slush23/side-events/21ceb9c7-a65d-4764-ad5c-1af81ee1f9b8"
+ },
+ {
+  "SNO": 38,
+  "TITLE": "Games London Investor Event: Meet new UK Games start-ups and more",
+  "ORGANIZER": "Organized by Games London",
+  "DATETIME": "Nov 30, 8:00 AM – 10:00 AM",
+  "ADDRESS": "103B, Messukeskus Siipi Conference Centre",
+  "SECTION": "Pitching",
+  
+  "SECTION2": "Gaming",
+  "LINK": "https://platform.slush.org/slush23/side-events/fc6e46e0-29f5-418e-b1ee-6df7b77238d1"
+ },
+ {
+  "SNO": 39,
+  "TITLE": "Reshaping the Built World",
+  "ORGANIZER": "Organized by Pi Labs",
+  "DATETIME": "Nov 30, 10:30 AM – 11:30 AM",
+  "ADDRESS": "Säde, Messukeskus Siipi Conference Center",
+  "SECTION": "Networking",
+     
+  "SECTION2": "Property & Construction Tech",
+  "LINK": "https://platform.slush.org/slush23/side-events/144363f5-6db1-4c1f-92b6-bee2f0eeb7ee"
+ },
+ {
+  "SNO": 40,
+  "TITLE": "European Innovation Council - Building deep tech unicorns",
+  "ORGANIZER": "Organized by European Innovation Council / European Investment Bank",
+  "DATETIME": "Nov 30, 11:00 AM – 11:45 AM",
+  "ADDRESS": "EIC/EIB stand (close to Founder stage)",
+  "SECTION": "Workshop",
+  "SECTION2": "Manufacturing & Materials",
+  "LINK": "https://platform.slush.org/slush23/side-events/55f0f20e-b1a4-4c76-8ed0-ca94af625f7e"
+ },
+ {
+  "SNO": 41,
+  "TITLE": "VIP Investor Lunch by Sweden",
+  "ORGANIZER": "Organized by Team Sweden",
+  "DATETIME": "Nov 30, 11:30 AM – 1:30 PM",
+  "ADDRESS": "Valo, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/662f842e-09df-4d9e-a52b-a6c0ff89873b"
+ },
+ {
+  "SNO": 42,
+  "TITLE": "State of European Deep tech",
+  "ORGANIZER": "Organized by Dealroom",
+  "DATETIME": "Nov 30, 12:00 PM – 2:00 PM",
+  "ADDRESS": "101D, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/5902a8e1-c2ab-45f3-8c19-578809c73e5f"
+ },
+ {
+  "SNO": 43,
+  "TITLE": "Against the odds: successfully raising as a female emerging tech founder",
+  "ORGANIZER": "Organized by PwC",
+  "DATETIME": "Nov 30, 12:00 PM – 1:00 PM",
+  "ADDRESS": "101C, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/a0b17577-3369-4232-9906-0c07ca0c8e75"
+ },
+ {
+  "SNO": 44,
+  "TITLE": "Investing in AI & Reaching the top 1%",
+  "ORGANIZER": "Organized by Zendesk",
+  "DATETIME": "Nov 30, 1:00 PM – 3:00 PM",
+  "ADDRESS": "Siipi 103A, Messukeskus Siipi",
+  "SECTION": "Roundtable",
+  "SECTION2": "Fintech & Insurance Tech",
+  "LINK": "https://platform.slush.org/slush23/side-events/2d457a1a-c061-4120-8f5f-bf7beb44feed"
+ },
+ {
+  "SNO": 45,
+  "TITLE": "Panel - Embracing Ecosystems, Overcoming Egosystems: Fostering Collaborative Success ​",
+  "ORGANIZER": "Organized by PwC",
+  "DATETIME": "Nov 30, 1:30 PM – 2:30 PM",
+  "ADDRESS": "101C, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/5d8ac023-0c70-461a-ab14-e2e24f4d2860"
+ },
+ {
+  "SNO": 46,
+  "TITLE": "Get to glow us!",
+  "ORGANIZER": "Organized by Embassy of Iceland, Business Iceland & Iceland Innovation Week",
+  "DATETIME": "Nov 30, 2:00 PM – 4:00 PM",
+  "ADDRESS": "Säde, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      
+  "SECTION2": "Climate",
+  "LINK": "https://platform.slush.org/slush23/side-events/66e1d6fe-06b9-47d2-a696-97db1a51cb7e"
+ },
+ {
+  "SNO": 47,
+  "TITLE": "What's going on in Spain?",
+  "ORGANIZER": "Organized by SPAIN UP NATION",
+  "DATETIME": "Nov 30, 2:30 PM – 3:30 PM",
+  "ADDRESS": "103B, Messukeskus Siipi Conference Centre",
+  "SECTION": "Stage Session",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/d9b33936-ee26-4ee2-a23b-52b30b86c0af"
+ },
+ {
+  "SNO": 48,
+  "TITLE": "Meet & Mingle with Lithuanian startup ecosystem",
+  "ORGANIZER": "Organized by Startup Lithuania",
+  "DATETIME": "Nov 30, 4:30 PM – 6:00 PM",
+  "ADDRESS": "103A, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/db2ed4e8-e58d-45bd-8239-99cc5a40267b"
+ },
+ {
+  "SNO": 49,
+  "TITLE": "Slush with Seoul",
+  "ORGANIZER": "Organized by Seoul Business Agency",
+  "DATETIME": "Nov 30, 5:30 PM – 7:30 PM",
+  "ADDRESS": "101D, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/4a06d63d-d604-49df-92e5-d6fd5f1b15e7"
+ },
+ {
+  "SNO": 50,
+  "TITLE": "Gen-Z Entrepreneurs Ideathon for 2050 and Beyond (Powered by J-StarX, Japanese Gov.)",
+  "ORGANIZER": "Organized by J-StarX",
+  "DATETIME": "Nov 30, 6:00 PM – 8:00 PM",
+  "ADDRESS": "101C, Messukeskus Siipi Conference Centre",
+  "SECTION": "Workshop",
+  "SECTION2": "Education",
+  "LINK": "https://platform.slush.org/slush23/side-events/e0ac1405-0c44-451b-b9c4-d0d14c4b16c4"
+ },
+ {
+  "SNO": 51,
+  "TITLE": "KSUM - Business Finland Ecosystem Meetup",
+  "ORGANIZER": "Organized by Kerala Startup Mission",
+  "DATETIME": "Nov 30, 6:30 PM – 7:30 PM",
+  "ADDRESS": "103B, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/fab12111-810e-41f6-bc51-7e9390fe17b9"
+ },
+ {
+  "SNO": 52,
+  "TITLE": "Big in Japan",
+  "ORGANIZER": "Organized by Fukuoka Startup Consortium, Japan",
+  "DATETIME": "Dec 1, 9:00 AM – 11:00 AM",
+  "ADDRESS": "Säde, Messukeskus Siipi Conference Centre",
+  "SECTION": "Pitching",
+      
+  "SECTION2": "Social Impact",
+  "LINK": "https://platform.slush.org/slush23/side-events/817a0b8f-1d9f-4959-ba0f-9687006f20c9"
+ },
+ {
+  "SNO": 53,
+  "TITLE": "Green Solutions Made in Austria",
+  "ORGANIZER": "Organized by Austrian Business Agency & Vienna Business Agency",
+  "DATETIME": "Dec 1, 9:30 AM – 10:30 AM",
+  "ADDRESS": "101D, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+     
+  "SECTION2": "Cleantech",
+  "LINK": "https://platform.slush.org/slush23/side-events/e2c3e48c-81ca-4058-b4a5-27f7eec9221e"
+ },
+ {
+  "SNO": 54,
+  "TITLE": "The Future of Packaging Workshop – How to make packaging better, smarter and more sustainable?",
+  "ORGANIZER": "Organized by Huhtamaki in collaboration with Emerald Ventures",
+  "DATETIME": "Dec 1, 10:00 AM – 12:00 PM",
+  "ADDRESS": "101C, Messukeskus Siipi Conference Centre",
+  "SECTION": "Workshop",
+  "SECTION2": "Manufacturing & Materials",
+  "LINK": "https://platform.slush.org/slush23/side-events/04773a32-1e00-426a-9b5a-283b5c2b8757"
+ },
+ {
+  "SNO": 55,
+  "TITLE": "Technological bridge to talent: how corporate innovation works in Spain and Finland.",
+  "ORGANIZER": "Organized by SPAIN UP NATION",
+  "DATETIME": "Dec 1, 11:00 AM – 12:30 PM",
+  "ADDRESS": "103B, Messukeskus Siipi Conference Centre",
+  "SECTION": "Stage Session",
+  
+  "SECTION2": "Event Tech",
+  "LINK": "https://platform.slush.org/slush23/side-events/ec4c5cb0-f562-4f6a-928b-94e7dadb32f2"
+ },
+ {
+  "SNO": 56,
+  "TITLE": "European Innovation Council - Building deep tech unicorns",
+  "ORGANIZER": "Organized by European Innovation Council / European Investment Bank",
+  "DATETIME": "Dec 1, 11:00 AM – 11:45 AM",
+  "ADDRESS": "EIC/EIB stand (close to Founder stage)",
+  "SECTION": "Workshop",
+  "SECTION2": "Biotech",
+  "LINK": "https://platform.slush.org/slush23/side-events/b375fd0e-81ba-4c0e-b0b7-2e64d874b29d"
+ },
+ {
+  "SNO": 57,
+  "TITLE": "Where to invest next in the mobility sector",
+  "ORGANIZER": "Organized by EIT Urban Mobility",
+  "DATETIME": "Dec 1, 11:30 AM – 1:00 PM",
+  "ADDRESS": "101D, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "Mobility",
+  "LINK": "https://platform.slush.org/slush23/side-events/8594a725-44d5-4c7f-a5c1-8b4e823557ad"
+ },
+ {
+  "SNO": 58,
+  "TITLE": "Fundraising in 2024: Investor AMA",
+  "ORGANIZER": "Organized by Stripe",
+  "DATETIME": "Dec 1, 12:00 PM – 1:00 PM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "E-commerce",
+  "LINK": "https://platform.slush.org/slush23/side-events/78aee86a-fea4-4167-8c8f-17f30ac8c822"
+ },
+ {
+  "SNO": 59,
+  "TITLE": "Türkiye: Home to most female-founded unicorns in Europe.",
+  "ORGANIZER": "Organized by Invest in Türkiye",
+  "DATETIME": "Dec 1, 1:00 PM – 2:30 PM",
+  "ADDRESS": "101C, Messukeskus Siipi Conference Centre",
+  "SECTION": "Roundtable",
+  "SECTION2": "Gaming",
+  "LINK": "https://platform.slush.org/slush23/side-events/4c230709-9b87-4ced-9988-f9e109ec4ab9"
+ },
+ {
+  "SNO": 60,
+  "TITLE": "Look to Norway!",
+  "ORGANIZER": "Organized by Innovation Norway",
+  "DATETIME": "Dec 1, 2:00 PM – 4:00 PM",
+  "ADDRESS": "101D, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/4cb5ec5f-e6f0-4035-b692-87bf74d69d9e"
+ },
+ {
+  "SNO": 61,
+  "TITLE": "European Innovation Council - Building deep tech unicorns",
+  "ORGANIZER": "Organized by European Innovation Council / European Investment Bank",
+  "DATETIME": "Dec 1, 2:00 PM – 2:45 PM",
+  "ADDRESS": "EIC/EIB stand (close to Founder stage)",
+  "SECTION": "Workshop",
+  "SECTION2": "Cleantech",
+  "LINK": "https://platform.slush.org/slush23/side-events/a5bc2f85-c363-4666-bf1e-eb20bfcb52fb"
+ },
+ {
+  "SNO": 62,
+  "TITLE": "Reflections as we are wrapping up Slush - 2",
+  "ORGANIZER": "Organized by AstraZeneca",
+  "DATETIME": "Dec 1, 2:30 PM – 3:00 PM",
+  "ADDRESS": "AstraZeneca A.Catalyst Network Booth",
+  "SECTION": "Stage Session",
+
+  "SECTION2": "Health & Wellbeing",
+  "LINK": "https://platform.slush.org/slush23/side-events/d6ee87cf-e3bf-4954-97f1-819713a00d7b"
+ },
+ {
+  "SNO": 63,
+  "TITLE": "The Disruptive Power of Outliers in Emerging Markets",
+  "ORGANIZER": "Organized by Endeavor",
+  "DATETIME": "Dec 1, 3:00 PM – 4:30 PM",
+  "ADDRESS": "Säde, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/51de9f74-7fc0-44c5-b9e2-e3ff2d0d8b2d"
+ },
+ {
+  "SNO": 64,
+  "TITLE": "Google Chrome After Party",
+  "ORGANIZER": "Organized by Google",
+  "DATETIME": "Dec 1, 5:30 PM – Nov 22, 9:00 PM",
+  "ADDRESS": "Google Booth, next to Founder Stage",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/911ff6db-d6c0-49bb-b475-0c62f46b8a1b"
+ },
+ {
+  "SNO": 65,
+  "TITLE": "Cooley - Taking You to New Heights",
+  "ORGANIZER": "Organized by Cooley LLP",
+  "DATETIME": "Nov 29, 6:00 PM – 9:00 PM",
+  "ADDRESS": "SkyWheel Helsinki and Allas Restaurants - Katajanokanlaituri 2 00160 Helsinki",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/be15484e-56b8-461a-a83c-fe756594ae4a"
+ },
+ {
+  "SNO": 66,
+  "TITLE": "FIND YOUR WAY TO EU FINANCING",
+  "ORGANIZER": "Organized by European Investment Bank",
+  "DATETIME": "Nov 30, 10:30 AM – 12:00 PM",
+  "ADDRESS": "103A, Messukeskus Siipi Conference Centre",
+  "SECTION": "Workshop",
+  "LINK": "https://platform.slush.org/slush23/side-events/3f1d1108-6824-4e35-b4f7-ba85391f5bd6"
+ },
+ {
+  "SNO": 67,
+  "TITLE": "AMA lunch with Stripe's Claire Hughes Johnson",
+  "ORGANIZER": "Organized by Stripe",
+  "DATETIME": "Nov 30, 12:30 PM – 1:30 PM",
+  "ADDRESS": "Säde, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "E-commerce",
+  "LINK": "https://platform.slush.org/slush23/side-events/d804b45a-a6c6-4e9d-a2ca-889bc4bc0c3d"
+ },
+ {
+  "SNO": 68,
+  "TITLE": "How Non-Dilutive Capital Can Fuel Your Growth",
+  "ORGANIZER": "Organized by HSBC Innovation Banking",
+  "DATETIME": "Nov 30, 4:30 PM – 6:00 PM",
+  "ADDRESS": "Säde, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "Spacetech",
+  "LINK": "https://platform.slush.org/slush23/side-events/aa55e0bd-8366-4cd8-a36e-8dd5f9d7aadf"
+ },
+ {
+  "SNO": 69,
+  "TITLE": "Deep Tech Breakfast",
+  "ORGANIZER": "Organized by Slush",
+  "DATETIME": "Dec 1, 9:00 AM – 10:00 AM",
+  "ADDRESS": "Investor Office Hours room",
+  "SECTION": "Networking",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/24d700c4-b492-4978-9625-55d5c374eb85"
+ },
+ {
+  "SNO": 70,
+  "TITLE": "Foolproofing your next funding round",
+  "ORGANIZER": "Organized by Avalara",
+  "DATETIME": "Dec 1, 9:30 AM – 11:00 AM",
+  "ADDRESS": "102 Auditorium, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "Enterprise Software",
+  "LINK": "https://platform.slush.org/slush23/side-events/4bf44b2d-a806-47f6-8cca-08a7df27a1fb"
+ },
+ {
+  "SNO": 71,
+  "TITLE": "Next big thing in Health Data – have we discovered it all?",
+  "ORGANIZER": "Organized by AstraZeneca",
+  "DATETIME": "Dec 1, 10:00 AM – 10:30 AM",
+  "ADDRESS": "AstraZeneca A.Catalyst Network Booth",
+  "SECTION": "Networking",
+
+  "SECTION2": "Health & Wellbeing",
+  "LINK": "https://platform.slush.org/slush23/side-events/82718968-a492-4b77-b861-da2229dede9f"
+ },
+ {
+  "SNO": 72,
+  "TITLE": "VC & Founder Networking Lunch",
+  "ORGANIZER": "Organized by Grow with SAP for Scaleups",
+  "DATETIME": "Dec 1, 11:00 AM – 1:00 PM",
+  "ADDRESS": "Valo, Messukeskus Siipi Conference Centre",
+  "SECTION": "Networking",
+
+  "SECTION2": "Manufacturing & Materials",
+  "LINK": "https://platform.slush.org/slush23/side-events/4e9b88fa-0248-4e0d-9617-e87a5d888f14"
+ },
+ {
+  "SNO": 73,
+  "TITLE": "Pitching hour — Invest in science startups!",
+  "ORGANIZER": "Organized by VTT LaunchPad",
+  "DATETIME": "Dec 1, 11:00 AM – 12:00 PM",
+  "ADDRESS": "VTT Partner Booth",
+  "SECTION": "Pitching",
+
+  "SECTION2": "Cleantech",
+  "LINK": "https://platform.slush.org/slush23/side-events/44796ad9-b6ad-4e23-afe9-6a96566b87bb"
+ },
+ {
+  "SNO": 74,
+  "TITLE": "VTT Technology Showcase",
+  "ORGANIZER": "Organized by VTT Technical Research Center of Finland",
+  "DATETIME": "Dec 1, 1:00 PM – 2:00 PM",
+  "ADDRESS": "VTT Partner Booth",
+  "SECTION": "Pitching",
+      "SECTION2": "",
+  "LINK": "https://platform.slush.org/slush23/side-events/b421b2aa-f79a-4e9a-843c-9a62ca7b7c43"
+ },
+ {
+  "SNO": 75,
+  "TITLE": "Reflections as we are wrapping up Slush - 1",
+  "ORGANIZER": "Organized by AstraZeneca",
+  "DATETIME": "Dec 1, 1:30 PM – 2:00 PM",
+  "ADDRESS": "AstraZeneca A.Catalyst Network Booth",
+  "SECTION": "Networking",
+ 
+  "SECTION2": "Health & Wellbeing",
+  "LINK": "https://platform.slush.org/slush23/side-events/1f9502db-cae1-4522-bd1e-dc42c2b74387"
+ }
+]
